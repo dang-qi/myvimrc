@@ -39,3 +39,5 @@ nnoremap <space> za
 
 set nu
 set hlsearch
+syntax enable
+syntax on
